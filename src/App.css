@@ -100,12 +100,10 @@ button:hover {
     font-size: 2rem;
 }
 
-.results-temp {
-    font-size: 6rem;
-    margin: 10px 0;
-    color: #f15186;
+.results-temp > span {
+    font-size: 3rem;
+    color: #333;
 }
-
 .results-temp > span {
     font-size: 3rem;
     color: #333;
